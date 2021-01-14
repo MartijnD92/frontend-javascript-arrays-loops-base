@@ -1,3 +1,6 @@
+# Oplossingen
+Mijn oplossingen voor onderstaande opdracht.
+
 # Opdracht beschrijving
 Deze opdracht bestaat uit allemaal kleine opdrachtjes om te oefenen met alles wat je in de les hebt geleerd. Om de opdracht te maken kun je de opdracht clonen of downloaden naar jouw eigen computer.
 
